@@ -15,4 +15,4 @@ eureka:
       enabled: true
 
 data:
-  message: '{cipher} ded4dd4246f9be4efcce296e90b329ccc242ed526d70e209fb5939350f742752'
+  message: '{cipher} 62838a43a1e5c711ff23e1fd8e8470bdd90b6e400327c0457a0c9e107da6080a'
