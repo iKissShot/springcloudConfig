@@ -13,3 +13,6 @@ eureka:
       defaultZone: http://root:admin@node1:8100/eureka/
     healthcheck:
       enabled: true
+
+data:
+  message: '{cipher} ded4dd4246f9be4efcce296e90b329ccc242ed526d70e209fb5939350f742752'
