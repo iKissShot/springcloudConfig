@@ -1,3 +1,10 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:admin@node1:8100/eureka/
+    healthcheck:
+      enabled: true
+      
 spring:
   application:
     name: test
