@@ -16,7 +16,3 @@ logging:
     org.springframwwork.http.server.reactive: debug
     org.springframewrok.web.reactive: debug
     reactor.ipc.netty: debug
-
-feign:
-  hystrix:
-    enabled: true
