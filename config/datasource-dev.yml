@@ -8,3 +8,9 @@ spring:
         login-username: root
         login-password: admin
 #8201是druid的引用端口号
+mybatis:
+  mapper-locations: classpath:/mapper/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: true
+# 开启下划线到驼峰的自动转换, 来将数据库字段注入到对象属性
+#8201是druid的引用端口号
