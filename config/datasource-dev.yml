@@ -1,7 +1,7 @@
 spring:
   datasource:
     druid:
-      url: jdbc:mysql://localhost:3306/blog_db?charsetEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+      url: jdbc:mysql://localhost:3306/blog_db?characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
       username: root
       password: admin
       stat-view-servlet:
