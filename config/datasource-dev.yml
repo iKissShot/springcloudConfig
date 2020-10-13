@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/blog_db?charsetEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+      username: root
+      password: admin
+      stat-view-servlet:
+        login-username: root
+        login-password: admin
+#8201是druid的引用端口号
