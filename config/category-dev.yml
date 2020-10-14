@@ -1,0 +1,13 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:admin@node1:8100/eureka/
+    healthcheck:
+      enabled: true
+
+spring:
+  application:
+    name: category
+
+server:
+  port: 8204
