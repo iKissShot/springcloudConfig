@@ -1,6 +1,4 @@
 people:
-  name: '{cipher}b8f4b2ce947ed98bca9cd5787a74fe2e2c55c23b34d57b64b292309e06663088'
-  age: '{cipher}64ea1007914761c7fb76e51f1e457c8715c4c80314e5488515cc51ba300c4a0b'
-  sex: 女
-  #email: '{cipher}64ea1007914761c7fb76e51f1e457c8715c4c80314e5488515cc51ba300c4a0'
-  postcode: 'd17bba8e19b328eeb2fb0bf9180abf3ea2fa1a29b33eb0c7b6dc4b8acdbfa31b'
+  username: 'KissShot'
+  password: '{cipher}AQBFkmnr/VQurdihHzIL7ndI/LbeaGWschZTMVeGKAmyUa07zuv5tfkIPf8XiBSYXb0NSajgoXgSgAm69wMa2IXc23Ll17ADglSyh+bZhG9XCp7bdrw6Qj7EH/3bIOqtmt0BT/NlT6BtZGfAS64HnHiRsp12XC3YTFNGLR4ZMLiAcC7CblYdz6bjh6g1UATWeQazkTKyI3vslBZh4iUS7iDRaqW6eUgE8QuTtDEMn5mX7VaDSLeoMcjeAzQvdAFGtN9CupzncJVv5yCMe7/uCHpY0GApuDoxQwJblBNksVzw7WrxmEktbPh7zUqCNSYNqvDdMze3T29oyCJEpEb6C1lKFklpa+iFylT66PC4n5lX49H0dYHYm0mc82XrrIWbNN4='
+  age: 12
